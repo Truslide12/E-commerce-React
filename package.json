@@ -1,0 +1,26 @@
+{
+  "name": "e-commerce",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "react MERN",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Truslide12/Ecommerce-React.git"
+  },
+  "author": "Carlos Aragon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Truslide12/Ecommerce-React/issues"
+  },
+  "homepage": "https://github.com/Truslide12/Ecommerce-React#readme"
+}
